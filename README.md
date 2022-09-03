@@ -1,7 +1,6 @@
 ### 🗝 🎵 🪄
 
 ```
-Problem solver.
-I like to build instruments, human interfaces, and small software.
-I believe in the referential perspective of uniform integrity.
+Solving problems for fun and profit.
+I like to create human interfaces and small software.
 ```

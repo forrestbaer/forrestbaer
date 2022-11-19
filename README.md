@@ -1,6 +1,8 @@
 ### 🗝 🎵 🪄
 
 ```
-Solving problems for fun and profit.
-I like to create human interfaces and small software.
+Solving problems for fun and profit
+I miss BBS's
+Synth nerd, Vi prisoner with stockholm syndrome
+Have you tried COLEMAK-DHM?
 ```

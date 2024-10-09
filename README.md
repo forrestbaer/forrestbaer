@@ -1,8 +1,7 @@
-### 🗝 🎵 🪄
-
 ```
-Solving problems for fun and profit
-I miss the BBS scene 📞
-Synth nerd, Vi prisoner with stockholm syndrome
-Have you tried COLEMAK-DHM?
+Solving problems gives me good chemicals 🗝
+I miss the pre-internet 📞
+Into making sounds 🎵
+Into making sights 👀
+Have you tried COLEMAK? 🪄
 ```
